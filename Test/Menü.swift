@@ -19,7 +19,7 @@ struct Menü: View {
                                 .foregroundStyle(
                                     Color("Farbe"))
                         
-                            Text("ToDo`s")
+                            Text("Test Änderung")
                                 .bold()
                                 .foregroundStyle(
                                     Color.primary
